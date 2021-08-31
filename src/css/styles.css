@@ -1,0 +1,95 @@
+.master{
+    background-color: white;
+}
+
+.navtext{
+    font-weight: bolder;
+    text-decoration: overline;
+    font-size: 30px;
+    
+    
+}
+
+.backgroundHead{
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+
+
+.typewriter{
+    font-size: 55px;
+    line-height: 100%;
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    justify-content: center;
+    color:#ffffff;
+    text-shadow: 4px 4px 0px #f93069;
+}
+    
+.containerHead{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    
+    
+}
+.typeHead{
+    float: 12;
+   
+
+    
+    
+}
+.Options {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 1px 1px 0px #f93069;
+}
+
+.episodeCards{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color:black ;
+    align-items: center;
+    justify-content: center;
+    
+    padding-bottom: 50px;
+}
+.episodeTitle{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    color: white;
+    text-shadow: 4px 4px 0px #f93069;
+
+}
+
+.podcast-episode1 {
+ margin-top: 40px;
+ margin-left: 40px;
+ margin-right: 40px;
+}
+
+.podcast-episode2 {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+   }
+   .heading {
+       text-align: center;
+       align-items: center;
+       justify-content: center;
+       margin-bottom: 20px;
+       
+
+
+   }
+   
+
