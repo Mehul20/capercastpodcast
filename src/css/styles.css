@@ -41,10 +41,6 @@
 }
 .typeHead{
     float: 12;
-   
-
-    
-    
 }
 .Options {
     font-family: 'Roboto Slab', serif;
@@ -54,14 +50,11 @@
 }
 
 .episodeCards{
-    padding-top: 50px;
     padding-right: 20px;
     padding-left: 20px;
     background-color:black ;
     align-items: center;
     justify-content: center;
-    
-    padding-bottom: 50px;
 }
 .episodeTitle{
     font-family: 'Roboto Slab', serif;
@@ -71,25 +64,48 @@
 
 }
 
-.podcast-episode1 {
+.podcast-episode {
  margin-top: 40px;
- margin-left: 40px;
- margin-right: 40px;
+ margin-left: 50px;
+ margin-right: 50px;
+ margin-bottom: 40px;
+}
+.podcast-episode2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+   }
+.frame {
+    align-items: center;
+    justify-content: center;
 }
 
-.podcast-episode2 {
-    margin-top: 40px;
-    margin-left: 40px;
-    margin-right: 40px;
-   }
+
+
    .heading {
        text-align: center;
        align-items: center;
        justify-content: center;
-       margin-bottom: 20px;
+       font-family: 'Roboto Slab', serif;
+    font-style: italic;
+    font-weight: 900;
+    text-align: center;
+    justify-content: center;
+    color:#000000;
+    text-shadow: 1.5px 1.5px 0px #f93069;
        
 
 
+   }
+   .description {
+       margin-bottom: 20px;
+       font-size: x-large;
+       align-items: center;
+       text-align: center;
+       justify-content: center;
+       font-family: 'Roboto Slab', serif;
+       font-weight: 500;
+       color:#000000;
    }
    
 
