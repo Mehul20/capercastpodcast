@@ -1,5 +1,5 @@
 import React from "react";
-import Navtop from "./Navbar.jsx";
+import Navtop from "./Navbar.jsx"
 import backgroundImage from "./images/backgroundHead.jpg"
 import "./css/styles.css"
 import MainHead from "./maintext.jsx"
@@ -19,8 +19,7 @@ function App() {
     }}
   >
     
-);
-    <Navtop></Navtop>
+    <Navtop> </Navtop>
     <MainHead></MainHead>
     
   </div>
@@ -42,8 +41,34 @@ function App() {
     <iframe src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909" width="90%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   </div>
   </div>
+
+
+  <div class="podcast-episode2">
+  <h1 class="heading"> Brandy Nagel  </h1>
+    <h3 class="description"> Brandy Nagel works at Georgia Tech's Enterprise Innovation Institute, in the Atlanta MBDA Business Center. She is excited about the new initiative: The Southeast MBDA Inner City Innovation Hub.
+    She has also been working with the Economic Development Lab. They help universities and communities grow with innovation-led economic development programs. They teach evidence-based entrepreneurship (Lean Startup) and offer other programs to support entrepreneurship and economic development. She has also been a a part of the NSF I-Corps program since 2012.
+    Her recent projects involve helping entrepreneurs and entrepreneur support organizations in the greater Atlanta area, Puerto Rico, Chile, South Korea, and India.
+</h3>
+
+    <div align="center"> 
+    <iframe src="https://open.spotify.com/embed/episode/5212Ya0Elz9Agzi8BV7pma?theme=0" width="90%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   </div>
+  </div>
+  <div class="podcast-episode2">
+  <h1 class="heading"> Andrew Zhou  </h1>
+    <h3 class="description"> Andrew is currently helping teams build great cultural habits at Kona. Previously worked on FCPX at Apple and studied computer science at UCLA
+</h3>
+
+    <div align="center"> 
+    <iframe src="https://open.spotify.com/embed/episode/7eSLdzrAvs8rHiHKD3XRfW" width="90%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </div>
+  </div>
+
+  </div>
+  
+
 }
+
 
 
 export default App;
