@@ -3,6 +3,7 @@ import Navtop from "./Navbar.jsx"
 import backgroundImage from "./images/backgroundHead.jpg"
 import "./css/styles.css"
 import MainHead from "./maintext.jsx"
+import Divider from "@material-ui/core/Divider";
 
 
 
@@ -156,9 +157,10 @@ function App() {
   </div>
   </div>
 
-
+  <Divider />
+  <div class="supporters">
   <h1 class="heading2"> Proud Supporters </h1>
-
+  </div> 
   </div>
   
 

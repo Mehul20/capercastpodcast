@@ -102,14 +102,14 @@
     align-items: center;
     justify-content: center;
     font-family: 'Roboto Slab', serif;
- font-weight: 900;
- text-align: center;
- justify-content: center;
- color:#000000;
+    font-weight: 900;
+    text-align: center;
+    justify-content: center;
+    color:#000000;
  text-shadow: 1.5px 1.5px 0px #f93069;
- font-size: 50px
-    
-
+ font-size: 50px;
+ margin-top: 40px;
+ margin-bottom: 30px;
 
 }
    .description {
