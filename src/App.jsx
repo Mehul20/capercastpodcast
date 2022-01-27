@@ -4,6 +4,8 @@ import backgroundImage from "./images/backgroundHead.jpg"
 import "./css/styles.css"
 import MainHead from "./maintext.jsx"
 import Divider from "@material-ui/core/Divider";
+import Card from "./CreateX.jsx"
+import Card2 from "./ox.jsx"
 
 
 
@@ -160,6 +162,14 @@ function App() {
   <Divider />
   <div class="supporters">
   <h1 class="heading2"> Proud Supporters </h1>
+  <div class="supportersbox">
+    <div class = "Cards">
+  <Card />
+  </div>
+  <div class = "Cards">
+  <Card2 />
+  </div>
+  </div>
   </div> 
   </div>
   

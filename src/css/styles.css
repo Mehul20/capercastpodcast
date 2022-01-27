@@ -49,20 +49,7 @@
     text-shadow: 1px 1px 0px #f93069;
 }
 
-.episodeCards{
-    padding-right: 20px;
-    padding-left: 20px;
-    background-color:black ;
-    align-items: center;
-    justify-content: center;
-}
-.episodeTitle{
-    font-family: 'Roboto Slab', serif;
-    text-align: center;
-    color: white;
-    text-shadow: 4px 4px 0px #f93069;
 
-}
 
 .podcast-episode {
  margin-top: 40px;
@@ -123,4 +110,19 @@
        color:#000000;
    }
    
-
+.supporters {
+    background-color: #f93069;
+}
+.supportersbox {
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+.Cards {
+    margin-bottom: 30px;
+}
