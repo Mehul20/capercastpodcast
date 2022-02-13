@@ -1,125 +1,114 @@
-.master{
-    background-color: white;
+.master {
+  background-color: white;
 }
 
-.navtext{
-    font-weight: bolder;
-    text-decoration: overline;
-    font-size: 30px;
-    
-    
+.navtext {
+  font-weight: bolder;
+  text-decoration: overline;
+  font-size: 30px;
 }
 
-.backgroundHead{
-    opacity: 1;
-    margin-bottom: 20px;
+.backgroundHead {
+  opacity: 1;
+  margin-bottom: 20px;
 }
 
-
-
-.typewriter{
-    font-size: 55px;
-    line-height: 100%;
-    font-family: 'Roboto Slab', serif;
-    font-style: italic;
-    font-weight: 900;
-    text-align: center;
-    justify-content: center;
-    color:#ffffff;
-    text-shadow: 4px 4px 0px #f93069;
+html {
+  scroll-behavior: smooth;
 }
-    
-.containerHead{
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    min-height: 100vh;
-    
-    
+.typewriter {
+  font-size: 55px;
+  line-height: 100%;
+  font-family: "Roboto Slab", serif;
+  font-style: italic;
+  font-weight: 900;
+  text-align: center;
+  justify-content: center;
+  color: #ffffff;
+  text-shadow: 4px 4px 0px #f93069;
 }
-.typeHead{
-    float: 12;
+
+.containerHead {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.typeHead {
+  float: 12;
 }
 .Options {
-    font-family: 'Roboto Slab', serif;
-    font-size: 30px;
-    color: #ffffff;
-    text-shadow: 1px 1px 0px #f93069;
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+  color: #ffffff;
+  text-shadow: 1px 1px 0px #f93069;
 }
-
-
 
 .podcast-episode {
- margin-top: 40px;
- margin-left: 50px;
- margin-right: 50px;
- margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 40px;
 }
 .podcast-episode2 {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 40px;
-   }
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
 .frame {
-    align-items: center;
-    justify-content: center;
+  align-items: center;
+  justify-content: center;
 }
 
-
-
-   .heading {
-       text-align: center;
-       align-items: center;
-       justify-content: center;
-       font-family: 'Roboto Slab', serif;
-    font-style: italic;
-    font-weight: 900;
-    text-align: center;
-    justify-content: center;
-    color:#000000;
-    text-shadow: 1.5px 1.5px 0px #f93069;
-       
-
-
-   }
-   .heading2 {
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Roboto Slab', serif;
-    font-weight: 900;
-    text-align: center;
-    justify-content: center;
-    color:#000000;
- text-shadow: 1.5px 1.5px 0px #f93069;
- font-size: 50px;
- margin-top: 40px;
- margin-bottom: 30px;
-
+.heading {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto Slab", serif;
+  font-style: italic;
+  font-weight: 900;
+  text-align: center;
+  justify-content: center;
+  color: #000000;
+  text-shadow: 1.5px 1.5px 0px #f93069;
 }
-   .description {
-       margin-bottom: 20px;
-       font-size: x-large;
-       align-items: center;
-       text-align: center;
-       justify-content: center;
-       font-family: 'Roboto Slab', serif;
-       font-weight: 500;
-       color:#000000;
-   }
-   
+.heading2 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto Slab", serif;
+  font-weight: 900;
+  text-align: center;
+  justify-content: center;
+  color: #000000;
+  text-shadow: 1.5px 1.5px 0px #f93069;
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.description {
+  margin-bottom: 20px;
+  font-size: x-large;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-family: "Roboto Slab", serif;
+  font-weight: 500;
+  color: #000000;
+}
+
 .supportersbox {
-    margin-left: 20%;
-    margin-right: 20%;
-    align-items: center;
-    justify-content: space-between;
-    display: flex;
-    margin-bottom: 20px;
-    box-sizing: border-box;
-    flex-direction: column;
+  margin-left: 20%;
+  margin-right: 20%;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  flex-direction: column;
 }
 .Cards {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
