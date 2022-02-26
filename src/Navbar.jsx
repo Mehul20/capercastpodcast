@@ -26,13 +26,8 @@ const Navtop = (props) => {
           <Collapse isOpen={isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <NavLink href="#">
-                  <span class="Options">Podcast</span>
-                </NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink href="#newsletter" target="_blank">
-                  <span class="Options">Newsletter</span>
+                <NavLink href="#newsletter">
+                  <span class="Options">Mailing List 📨</span>
                 </NavLink>
               </NavItem>
             </Nav>
