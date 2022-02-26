@@ -39,6 +39,7 @@ function App() {
         <div align="center">
           <iframe
             src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909"
+            title = "Podcast Episode"
             width="90%"
             height="232"
             frameBorder="0"
@@ -87,6 +88,7 @@ function App() {
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
+            title = "Podcast Episode"
           ></iframe>
         </div>
       </div>
@@ -107,6 +109,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/4zZVi6XcNTHlLFdhcNz7mF"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -128,6 +131,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/7eSLdzrAvs8rHiHKD3XRfW"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -155,6 +159,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/1Zs68ku4C8o0ZwgblPsRWi?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -178,6 +183,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/2hVMvvyfKT83ZYdfaFfCTh?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -201,6 +207,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/0flQzyXmFmKXaAR0SBD5vX?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -224,6 +231,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/5ptePPJfq2TPML0FkTVm98?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -244,6 +252,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/2VtkKgVD7Lk83GK5OyU2IK?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -267,6 +276,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/1JsQsAxgfy7qr9DPN4GSrP?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -290,6 +300,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/5YximCIAA1yYUntV0Ms3Qm?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -313,6 +324,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/7eoCdo2qOHyUUlMdOBit4d?theme=0"
             width="90%"
+            title = "Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
