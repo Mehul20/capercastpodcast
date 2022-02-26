@@ -4,8 +4,7 @@ import backgroundImage from "./images/backgroundHead.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
-import Card from "./CreateX.jsx";
-import Card2 from "./ox.jsx";
+import Cover from "./images/Cover.png"
 
 function App() {
   return (
@@ -46,8 +45,22 @@ function App() {
             allowtransparency="true"
             allow="encrypted-media"
           ></iframe>
+          
         </div>
+        
+        {/*
+        <div class="icons"> 
+        <a
+        href="https://twitter.com/intent/tweet?url=https://open.spotify.com/episode/4qA46nHLJLjqb5QBYlq909?go=1&sp_cid=6d333377-047f-4990-98c5-90777c139c5b&utm_source=embed_player_p&utm_medium=desktop&nd=1&text=Just%20heard%20this%20cool%20podcast%20hosted%20by%20@Capercastmedia!" target ="_blank"> 
+
+        <TwitterIcon style={{fontsize: 75, color:'blue'}}/>
+        </a>
+       
+        </div>
+        */}
+        
       </div>
+
 
       <div class="podcast-episode2">
         <h1 class="heading"> Brandy Nagel </h1>
@@ -221,7 +234,11 @@ function App() {
 
       <div class="podcast-episode2">
         <h1 class="heading"> Deep Kakkad </h1>
-        <h3 class="description"> Prepare Intro // TO DO</h3>
+        <h3 class="description"> 
+        Deep Kakkad is a VC Scout and entrepreneur based out of India. He's immensely passionate about grooming the next generation of entrepreneurs and startup enthusiasts. He’s currently a partner at an advisory firm called Proxy and is also a venture partner at Conscience VC. He's been featured in Entrepreneur.com twice and is a skilled motivational speaker too.
+        
+        
+        </h3>
 
         <div align="center">
           <iframe
@@ -307,19 +324,21 @@ function App() {
       <Divider />
       <div class="supporters">
         <h1 class="heading2"> Proud Supporters </h1>
-        <div class="supportersbox">
-          <div class="Cards">
-            <Card />
-          </div>
-          <div class="Cards">
-            <Card2 />
-          </div>
-        </div>
+        <div class="testimage"> 
+        <img 
+        src={Cover}
+        height= "400"
+        width= "500"
+        alt="Supporters"
+    > 
+      </img>
       </div>
-      <Divider />
+      </div>
+
       <div id="newsletter" align="center" display="flex">
         <iframe
           src="https://capercast.substack.com/embed"
+          title="Newsletter"
           width="480"
           height="320"
           background="white"

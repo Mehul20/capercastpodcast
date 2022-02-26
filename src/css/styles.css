@@ -9,7 +9,7 @@
 }
 
 .backgroundHead {
-  opacity: 1;
+  opacity: 1.0;
   margin-bottom: 20px;
 }
 
@@ -99,16 +99,22 @@ html {
   color: #000000;
 }
 
-.supportersbox {
-  margin-left: 20%;
-  margin-right: 20%;
+.testimage {
+  margin-bottom: 40px;
   align-items: center;
-  justify-content: space-between;
-  display: flex;
-  margin-bottom: 20px;
-  box-sizing: border-box;
-  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: #000000;
 }
-.Cards {
-  margin-bottom: 30px;
+
+.supportersbox {
+  opacity: 1;
+  margin-bottom: 20px;
+}
+
+.icons {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
 }
