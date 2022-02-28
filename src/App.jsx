@@ -4,7 +4,8 @@ import backgroundImage from "./images/backgroundHead.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
-import Cover from "./images/Cover.png"
+import createx from "./images/i2p.png"
+import oxlogo from "./images/ox.jpeg"
 
 function App() {
   return (
@@ -38,7 +39,7 @@ function App() {
 
         <div align="center">
           <iframe
-            src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909"
+            src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909?utm_source=generator&theme=0"
             title = "Podcast Episode"
             width="90%"
             height="232"
@@ -107,7 +108,7 @@ function App() {
 
         <div align="center">
           <iframe
-            src="https://open.spotify.com/embed/episode/4zZVi6XcNTHlLFdhcNz7mF"
+            src="https://open.spotify.com/embed/episode/4zZVi6XcNTHlLFdhcNz7mF?utm_source=generator&theme=0"
             width="90%"
             title = "Podcast Episode"
             height="232"
@@ -337,13 +338,27 @@ function App() {
       <div class="supporters">
         <h1 class="heading2"> Proud Supporters </h1>
         <div class="testimage"> 
-        <img 
-        src={Cover}
-        height= "400"
-        width= "500"
-        alt="Supporters"
-    > 
-      </img>
+
+        <img
+            src = {createx}
+            alt = "Georgia Tech Create X"
+            height= "150"
+            width="150"
+            class ="createx"
+        >
+</img> 
+        <img
+            src = {oxlogo}
+            alt = "OX Arkansas"
+            height= "150"
+            width="250"
+            class ="ox"
+        >
+
+          
+        
+
+        </img>
       </div>
       </div>
 

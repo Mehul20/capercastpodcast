@@ -9,7 +9,7 @@
 }
 
 .backgroundHead {
-  opacity: 1.0;
+  opacity: 0.8;
   margin-bottom: 20px;
 }
 
@@ -18,15 +18,15 @@ html {
 }
 
 .typewriter {
-  font-size: 55px;
+  font-size: 57px;
   line-height: 100%;
   font-family: "Roboto Slab", serif;
-  font-style: italic;
   font-weight: 900;
   text-align: center;
   justify-content: center;
   color: #ffffff;
   text-shadow: 4px 4px 0px #f93069;
+  
 }
 
 .containerHead {
@@ -101,10 +101,12 @@ html {
 
 .testimage {
   margin-bottom: 40px;
+  height: 400px;
   align-items: center;
   justify-content: center;
   text-align: center;
   background-color: #000000;
+  flex-direction: column;
 }
 
 .supportersbox {
@@ -117,4 +119,12 @@ html {
   justify-content: center;
   text-align: center;
   margin-top: 20px;
+}
+.createx {
+  margin-top: 50px;
+}
+
+.ox {
+  margin-top: 50px;
+  margin-left: 40px;
 }
