@@ -24,6 +24,27 @@ function App() {
       </div>
 
       <div class="podcast-episode">
+        <h1 class="heading"> Ethan Berg </h1>
+        <h3 class="description">
+          {" "}
+          Founder and CEO of Agora World, Ethan is a Metaverse enthusiast and entrepreneur.
+        </h3>
+
+        <div align="center">
+          <iframe
+            src="https://open.spotify.com/embed/episode/3wivL4KUST6h73WzGYIVtD?utm_source=generator&theme=0"
+            title = "Podcast Episode with Ethan Berg"
+            width="90%"
+            height="232"
+            frameBorder="0"
+            allowtransparency="true"
+            allow="encrypted-media"
+          ></iframe>
+          
+        </div>
+        </div>
+
+      <div class="podcast-episode2">
         <h1 class="heading"> Julia Kahky </h1>
         <h3 class="description">
           {" "}
@@ -366,7 +387,7 @@ function App() {
         <iframe
           src="https://capercast.substack.com/embed"
           title="Newsletter"
-          width="480"
+          width="440"
           height="320"
           background="white"
           border="1px"
