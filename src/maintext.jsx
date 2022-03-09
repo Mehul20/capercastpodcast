@@ -4,11 +4,11 @@ function MainHead(){
     return <div className="containerHead">
         <div className="typeHead">
             <span className="typewriter">
-        We are thinkers. We are dreamers.<br />
-        We are inventors. We are listeners.<br />
-        But most importantly...<br />
-        We are storytellers.<br />
-        Welcome to Capercast! 
+        THINKERS. DREAMERS.<br />
+        INVENTORS. LISTENERS. <br />
+        and <br />
+        STORYTELLERS.<br />
+        WELCOME TO CAPERCAST!
         </span>
 
     </div>

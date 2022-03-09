@@ -1,6 +1,6 @@
 import React from "react";
 import Navtop from "./Navbar.jsx";
-import backgroundImage from "./images/backgroundHead.jpg";
+import backgroundImage from "./images/BackgroundPodcast.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
