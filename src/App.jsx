@@ -4,8 +4,8 @@ import backgroundImage from "./images/backgroundHead.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
-import createx from "./images/i2p.png"
-import oxlogo from "./images/ox.jpeg"
+import Card1 from "./cardox.jsx"
+import Card2 from "./cardcreatex.jsx"
 
 function App() {
   return (
@@ -384,26 +384,11 @@ function App() {
         <h1 class="heading2"> Proud Supporters </h1>
         <div class="testimage"> 
 
-        <img
-            src = {createx}
-            alt = "Georgia Tech Create X"
-            height= "150"
-            width="150"
-            class ="createx"
-        >
-</img> 
-        <img
-            src = {oxlogo}
-            alt = "OX Arkansas"
-            height= "150"
-            width="250"
-            class ="ox"
-        >
-
+        <div class="card1">
           
-        
-
-        </img>
+        <Card1 />
+        </div>
+        <Card2 /> 
       </div>
       </div>
 
@@ -411,7 +396,7 @@ function App() {
         <iframe
           src="https://capercast.substack.com/embed"
           title="Newsletter"
-          width="440"
+          width="400"
           height="320"
           background="white"
           border="1px"
