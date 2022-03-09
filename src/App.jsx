@@ -21,9 +21,33 @@ function App() {
       >
         <Navtop> </Navtop>
         <MainHead></MainHead>
-      </div>
 
+      </div>
       <div class="podcast-episode">
+        <h1 class="heading"> Kevin Chandra and Putri Karunia </h1>
+        <h3 class="description">
+          {" "}
+          Kevin Chandra is the CEO of Typedream. He is an amazing entrepreneur and loves to build cool technologies to assist people in building websites no-code websites.
+          <br /> Putri Karunia is the CTO of Typedream. She is an enthusiast builder and talks about early stage software scaling and development.
+        </h3>
+
+        <div align="center">
+          <iframe
+            src="https://open.spotify.com/embed/episode/3TWisyezseUhCGEz8EcJ8n?theme=0" 
+            title = "Kevin Chandra and Putri Karunia Podcast from Typedream"
+            width="90%"
+            height="232"
+            frameBorder="0"
+            allowtransparency="true"
+            allow="encrypted-media"
+          ></iframe>
+          
+        </div>
+        </div>
+
+
+
+      <div class="podcast-episode2">
         <h1 class="heading"> Ethan Berg </h1>
         <h3 class="description">
           {" "}
