@@ -1,11 +1,11 @@
 import React from "react";
 import Navtop from "./Navbar.jsx";
-import backgroundImage from "./images/backgroundHead.jpg";
+import backgroundImage from "./images/BackgroundPodcast.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
-import createx from "./images/i2p.png"
-import oxlogo from "./images/ox.jpeg"
+import createx from "./images/i2p.png";
+import oxlogo from "./images/ox.jpeg";
 
 function App() {
   return (
@@ -21,52 +21,51 @@ function App() {
       >
         <Navtop> </Navtop>
         <MainHead></MainHead>
-
       </div>
       <div class="podcast-episode">
         <h1 class="heading"> Kevin Chandra and Putri Karunia </h1>
         <h3 class="description">
           {" "}
-          Kevin Chandra is the CEO of Typedream. He is an amazing entrepreneur and loves to build cool technologies to assist people in building websites no-code websites.
-          <br /> Putri Karunia is the CTO of Typedream. She is an enthusiast builder and talks about early stage software scaling and development.
+          Kevin Chandra is the CEO of Typedream. He is an amazing entrepreneur
+          and loves to build cool technologies to assist people in building
+          websites no-code websites.
+          <br /> Putri Karunia is the CTO of Typedream. She is an enthusiast
+          builder and talks about early stage software scaling and development.
         </h3>
 
         <div align="center">
           <iframe
-            src="https://open.spotify.com/embed/episode/3TWisyezseUhCGEz8EcJ8n?theme=0" 
-            title = "Kevin Chandra and Putri Karunia Podcast from Typedream"
+            src="https://open.spotify.com/embed/episode/3TWisyezseUhCGEz8EcJ8n?theme=0"
+            title="Kevin Chandra and Putri Karunia Podcast from Typedream"
             width="90%"
             height="232"
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
           ></iframe>
-          
         </div>
-        </div>
-
-
+      </div>
 
       <div class="podcast-episode2">
         <h1 class="heading"> Ethan Berg </h1>
         <h3 class="description">
           {" "}
-          Founder and CEO of Agora World, Ethan is a Metaverse enthusiast and entrepreneur.
+          Founder and CEO of Agora World, Ethan is a Metaverse enthusiast and
+          entrepreneur.
         </h3>
 
         <div align="center">
           <iframe
             src="https://open.spotify.com/embed/episode/3wivL4KUST6h73WzGYIVtD?utm_source=generator&theme=0"
-            title = "Podcast Episode with Ethan Berg"
+            title="Podcast Episode with Ethan Berg"
             width="90%"
             height="232"
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
           ></iframe>
-          
         </div>
-        </div>
+      </div>
 
       <div class="podcast-episode2">
         <h1 class="heading"> Julia Kahky </h1>
@@ -85,16 +84,15 @@ function App() {
         <div align="center">
           <iframe
             src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909?utm_source=generator&theme=0"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             width="90%"
             height="232"
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
           ></iframe>
-          
         </div>
-        
+
         {/*
         <div class="icons"> 
         <a
@@ -105,9 +103,7 @@ function App() {
        
         </div>
         */}
-        
       </div>
-
 
       <div class="podcast-episode2">
         <h1 class="heading"> Brandy Nagel </h1>
@@ -134,7 +130,7 @@ function App() {
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
-            title = "Podcast Episode"
+            title="Podcast Episode"
           ></iframe>
         </div>
       </div>
@@ -155,7 +151,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/4zZVi6XcNTHlLFdhcNz7mF?utm_source=generator&theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -177,7 +173,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/7eSLdzrAvs8rHiHKD3XRfW"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -205,7 +201,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/1Zs68ku4C8o0ZwgblPsRWi?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -229,7 +225,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/2hVMvvyfKT83ZYdfaFfCTh?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -253,7 +249,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/0flQzyXmFmKXaAR0SBD5vX?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -277,7 +273,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/5ptePPJfq2TPML0FkTVm98?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -288,17 +284,20 @@ function App() {
 
       <div class="podcast-episode2">
         <h1 class="heading"> Deep Kakkad </h1>
-        <h3 class="description"> 
-        Deep Kakkad is a VC Scout and entrepreneur based out of India. He's immensely passionate about grooming the next generation of entrepreneurs and startup enthusiasts. He’s currently a partner at an advisory firm called Proxy and is also a venture partner at Conscience VC. He's been featured in Entrepreneur.com twice and is a skilled motivational speaker too.
-        
-        
+        <h3 class="description">
+          Deep Kakkad is a VC Scout and entrepreneur based out of India. He's
+          immensely passionate about grooming the next generation of
+          entrepreneurs and startup enthusiasts. He’s currently a partner at an
+          advisory firm called Proxy and is also a venture partner at Conscience
+          VC. He's been featured in Entrepreneur.com twice and is a skilled
+          motivational speaker too.
         </h3>
 
         <div align="center">
           <iframe
             src="https://open.spotify.com/embed/episode/2VtkKgVD7Lk83GK5OyU2IK?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -322,7 +321,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/1JsQsAxgfy7qr9DPN4GSrP?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -346,7 +345,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/5YximCIAA1yYUntV0Ms3Qm?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -370,7 +369,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/7eoCdo2qOHyUUlMdOBit4d?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title="Podcast Episode"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -382,29 +381,22 @@ function App() {
       <Divider />
       <div class="supporters">
         <h1 class="heading2"> Proud Supporters </h1>
-        <div class="testimage"> 
-
-        <img
-            src = {createx}
-            alt = "Georgia Tech Create X"
-            height= "150"
+        <div class="testimage">
+          <img
+            src={createx}
+            alt="Georgia Tech Create X"
+            height="150"
             width="150"
-            class ="createx"
-        >
-</img> 
-        <img
-            src = {oxlogo}
-            alt = "OX Arkansas"
-            height= "150"
+            class="createx"
+          ></img>
+          <img
+            src={oxlogo}
+            alt="OX Arkansas"
+            height="150"
             width="250"
-            class ="ox"
-        >
-
-          
-        
-
-        </img>
-      </div>
+            class="ox"
+          ></img>
+        </div>
       </div>
 
       <div id="newsletter" align="center" display="flex">

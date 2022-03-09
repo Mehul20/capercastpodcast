@@ -9,7 +9,6 @@
 }
 
 .backgroundHead {
-  opacity: 0.8;
   margin-bottom: 20px;
 }
 
@@ -20,13 +19,12 @@ html {
 .typewriter {
   font-size: 57px;
   line-height: 100%;
-  font-family: "Roboto Slab", serif;
+  font-family: "Anonymous Pro", monospace;
   font-weight: 900;
   text-align: center;
   justify-content: center;
   color: #ffffff;
   text-shadow: 4px 4px 0px #f93069;
-  
 }
 
 .containerHead {
