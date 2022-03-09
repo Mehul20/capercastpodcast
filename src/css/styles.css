@@ -101,12 +101,17 @@ html {
 
 .testimage {
   margin-bottom: 40px;
-  height: 500px;
+  height: 1000px;
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: #000000;
+  background-color: #ffffff;
   flex-direction: column;
+  display: flex;
+}
+
+.card1 {
+  margin-bottom: 40px;
 }
 
 .supportersbox {
