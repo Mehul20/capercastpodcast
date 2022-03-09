@@ -27,7 +27,7 @@ const Navtop = (props) => {
             <Nav className="ml-auto" navbar>
               <NavItem>
                 <NavLink href="#newsletter">
-                  <span class="Options">Mailing List 📨</span>
+                  <span class="Options">MAILING LIST 📨</span>
                 </NavLink>
               </NavItem>
             </Nav>
