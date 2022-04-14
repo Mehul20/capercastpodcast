@@ -22,8 +22,36 @@ function App() {
         <Navtop> </Navtop>
         <MainHead></MainHead>
 
-      </div>
+</div>
       <div class="podcast-episode">
+        <h1 class="heading"> Nitin Jaiswal </h1>
+        <h3 class="description">
+          {" "}
+          Nitin Jaiswal is an experienced financial professional responsible for maintaining and expanding Bloomberg’s most important stakeholder relationships across Asia Pacific. 
+          <br /> In his role, he works with government, regulators, business leaders and think tanks to help advance capital market development in emerging and developed countries 
+        </h3>
+
+        <div align="center">
+          <iframe
+            src="https://open.spotify.com/embed/episode/5s732ORjixtctAzdD2IcB0?utm_source=generator&theme=0" 
+            title = "Nitin Jaiswal from Bloomberg"
+            width="90%"
+            height="232"
+            frameBorder="0"
+            allowtransparency="true"
+            allow="encrypted-media"
+          ></iframe>
+          
+        </div>
+        </div>      
+
+
+
+
+
+
+</div>
+      <div class="podcast-episode2">
         <h1 class="heading"> Kevin Chandra and Putri Karunia </h1>
         <h3 class="description">
           {" "}
@@ -85,7 +113,7 @@ function App() {
         <div align="center">
           <iframe
             src="https://open.spotify.com/embed/episode/4qA46nHLJLjqb5QBYlq909?utm_source=generator&theme=0"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Julia Kahky from Panoramic"
             width="90%"
             height="232"
             frameBorder="0"
@@ -134,7 +162,7 @@ function App() {
             frameBorder="0"
             allowtransparency="true"
             allow="encrypted-media"
-            title = "Podcast Episode"
+            title = "Brandy Nagel from Georgia Tech Enterprise Innovation"
           ></iframe>
         </div>
       </div>
@@ -155,7 +183,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/4zZVi6XcNTHlLFdhcNz7mF?utm_source=generator&theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Likoebe"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -205,7 +233,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/1Zs68ku4C8o0ZwgblPsRWi?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Seth Radman from Infinite Giving"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -229,7 +257,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/2hVMvvyfKT83ZYdfaFfCTh?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Charu Thomas form Ox"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -253,7 +281,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/0flQzyXmFmKXaAR0SBD5vX?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Cherian from Gatherly" 
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -277,7 +305,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/5ptePPJfq2TPML0FkTVm98?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Jay Shaffer from Atlanta Technology Angels"
             height="232"
             frameBorder="0"
             allowtransparency="true"
@@ -298,7 +326,7 @@ function App() {
           <iframe
             src="https://open.spotify.com/embed/episode/2VtkKgVD7Lk83GK5OyU2IK?theme=0"
             width="90%"
-            title = "Podcast Episode"
+            title = "Podcast Episode with Deep Kakkad"
             height="232"
             frameBorder="0"
             allowtransparency="true"
