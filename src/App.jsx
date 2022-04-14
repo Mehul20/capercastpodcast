@@ -45,12 +45,6 @@ function App() {
         </div>
         </div>      
 
-
-
-
-
-
-</div>
       <div class="podcast-episode2">
         <h1 class="heading"> Kevin Chandra and Putri Karunia </h1>
         <h3 class="description">
