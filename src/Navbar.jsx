@@ -22,14 +22,20 @@ const Navtop = (props) => {
           <NavbarBrand className="navbrand" href="/">
             <span class="navtext">CAPERCAST</span>
           </NavbarBrand>
-          <NavbarToggler onClick={toggle} />
+          <NavbarToggler onClick={toggle}/>
           <Collapse isOpen={isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
                 <NavLink href="#newsletter">
                   <span class="Options">MAILING LIST 📨</span>
                 </NavLink>
+                
               </NavItem>
+              <NavItem>
+              <NavLink href="https://mehulrastogi.notion.site/Resources-for-Student-Entrepreneurs-via-Capercast-7cfb2c4c9026453aac5a681b60bb802f">
+                  <span class="Options">RESOURCES</span>
+                </NavLink>
+                </NavItem>
             </Nav>
           </Collapse>
         </Nav>
