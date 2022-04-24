@@ -4,10 +4,10 @@ function MainHead(){
     return <div className="containerHead">
         <div className="typeHead">
             <span className="typewriter">
-        THINKERS. DREAMERS.<br />
-        INVENTORS. LISTENERS. <br />
+        THINKERS. DREAMERS<br />
+        INVENTORS. LISTENERS <br />
         and <br />
-        STORYTELLERS.<br />
+        STORYTELLERS<br />
         WELCOME TO CAPERCAST!
         </span>
 
