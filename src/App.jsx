@@ -4,8 +4,6 @@ import backgroundImage from "./images/BackgroundPodcast.jpg";
 import "./css/styles.css";
 import MainHead from "./maintext.jsx";
 import Divider from "@material-ui/core/Divider";
-import Card1 from "./cardox.jsx"
-import Card2 from "./cardcreatex.jsx"
 
 function App() {
   return (
@@ -402,17 +400,6 @@ function App() {
       </div>
 
       <Divider />
-      <div class="supporters">
-        <h1 class="heading2"> Proud Supporters </h1>
-        <div class="testimage"> 
-
-        <div class="card1">
-          
-        <Card1 />
-        </div>
-        <Card2 /> 
-      </div>
-      </div>
 
       <div id="newsletter" align="center" display="flex">
         <iframe

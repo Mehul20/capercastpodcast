@@ -32,7 +32,7 @@ const Navtop = (props) => {
                 
               </NavItem>
               <NavItem>
-              <NavLink href="https://mehulrastogi.notion.site/Resources-for-Student-Entrepreneurs-via-Capercast-7cfb2c4c9026453aac5a681b60bb802f">
+              <NavLink href="https://www.capercast.live/resources/">
                   <span class="Options">RESOURCES</span>
                 </NavLink>
                 </NavItem>
