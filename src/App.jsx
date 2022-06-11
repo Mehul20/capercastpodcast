@@ -21,7 +21,33 @@ function App() {
         <MainHead></MainHead>
 
 </div>
+
+      
       <div class="podcast-episode">
+        <h1 class="heading"> Tanner Green </h1>
+        <h3 class="description">
+          {" "}
+          Tanner Green is an entrepreneur, designer, and currently serves as Ox’s Chief Product Officer and sits on the Board of Directors. Tanner oversees all software product development for Ox’s Fulfillment Automation Platform. In 2019, Tanner dropped out of college to pursue Ox full-time. Over the past 3 years, Tanner helped grow the team from 3 full-time employees to over 20 and has raised $6 million in venture capital. This includes raising the largest seed round ever in the state of Arkansas.  
+        </h3>
+
+        <div align="center">
+          <iframe
+            src= "https://open.spotify.com/embed/episode/4p1iZm0AacEdOguDij2cJY?utm_source=generator&theme=0" 
+            title = "Tanner Green from Ox"
+            width="90%"
+            height="232"
+            frameBorder="0"
+            allowtransparency="true"
+            allow="encrypted-media"
+          ></iframe>
+          
+        </div>
+        </div>      
+
+
+
+
+      <div class="podcast-episode2">
         <h1 class="heading"> Nitin Jaiswal </h1>
         <h3 class="description">
           {" "}
