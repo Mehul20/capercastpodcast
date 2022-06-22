@@ -22,8 +22,32 @@ function App() {
 
 </div>
 
+<div class="podcast-episode">
+        <h1 class="heading"> Rajiv Ayyangar </h1>
+        <h3 class="description">
+          {" "}
+          Rajiv Ayyangar is the Co-founder and CEO of Tandem (virtual office for distributed teams). He studied bioengineering at Princeton and subsequently worked at Fairchild and Yahoo. 
+        </h3>
+
+        <div align="center">
+          <iframe
+            src= "https://open.spotify.com/embed/episode/4BijL4YXro4BKjuc2Qr69O?utm_source=generator&theme=0"
+            title = "Rajiv Ayyangar from Tandem.chat"
+            width="90%"
+            height="232"
+            frameBorder="0"
+            allowtransparency="true"
+            allow="encrypted-media"
+          ></iframe>
+          
+        </div>
+        </div>      
+
       
-      <div class="podcast-episode">
+      
+      
+      
+      <div class="podcast-episode2">
         <h1 class="heading"> Tanner Green </h1>
         <h3 class="description">
           {" "}
