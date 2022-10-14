@@ -23,6 +23,22 @@ function App() {
 </div>
 
 <div class="podcast-episode">
+        <h1 class="heading"> Akash Bhat </h1>
+        <h3 class="description">
+          {" "}
+          Akash Bhat is the Founder, Host & Producer of the Desi VC podcast. 
+          Akash Bhat features prominently on the investment and venture studio teams at Scrum Ventures, a VC firm investing between the US-Japan corridor.
+        </h3>
+
+        <div align="center">
+       
+        <iframe width="70%"
+            height="480" src="https://www.youtube.com/embed/ItTo4CR4G7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
+        </div>
+        </div>      
+
+<div class="podcast-episode2">
         <h1 class="heading"> Rajiv Ayyangar </h1>
         <h3 class="description">
           {" "}
