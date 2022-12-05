@@ -23,6 +23,24 @@ function App() {
 </div>
 
 <div class="podcast-episode">
+        <h1 class="heading"> Shriya Nevatia </h1>
+        <h3 class="description">
+          {" "}
+          Shriya is a technology community builder, angel investor, entrepreneur, and mentor. She helps people believe in themselves, level up, and start startups.
+          She is currently a General Manager at Sylva, working on refining and scaling our Founder communities. She was previously Director of On Deck Catalyst, a remote program for young tech leaders.
+          She was also previously Founder & CEO of The Violet Society, a community for ambitious female & non-binary people in tech, which she ran full-time before joining On Deck.
+        </h3>
+
+        <div align="center">
+       
+        <iframe width="70%"
+            height="480" src="https://www.youtube.com/embed/g9ZeSBE8wLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
+        </div>
+        </div>  
+
+
+<div class="podcast-episode2">
         <h1 class="heading"> Akash Bhat </h1>
         <h3 class="description">
           {" "}
